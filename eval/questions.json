@@ -1,0 +1,22 @@
+[
+  {"q": "What is the rated voltage of the HVC-400?", "expect": "800 V"},
+  {"q": "What is the coil voltage?", "expect": "12 V"},
+  {"q": "What is the maximum continuous current?", "expect": "400 A"},
+  {"q": "Which sample failed the overload test?", "expect": "S3"},
+  {"q": "At which current was the overload test done?", "expect": "600 A"},
+  {"q": "After how many cycles did the contacts weld?", "expect": "1,850"},
+  {"q": "How much did the contact resistance of S1 increase?", "expect": "0.11"},
+  {"q": "How were the welded contacts examined?", "expect": "microscope"},
+  {"q": "What is the recommended action after the overload failure?", "expect": "repeat"},
+  {"q": "What is the insulation resistance between open contacts?", "expect": "100 MΩ"},
+  {"q": "Wie hoch war die maximale Erwärmung?", "expect": "42 K"},
+  {"q": "Wie hoch ist der Grenzwert für die Erwärmung?", "expect": "65 K"},
+  {"q": "Wann wurde die Erwärmungsprüfung durchgeführt?", "expect": "14. September"},
+  {"q": "Wie lange dauerte die Erwärmungsprüfung?", "expect": "4 Stunden"},
+  {"q": "Womit wurde die Temperatur gemessen?", "expect": "Thermoelement"},
+  {"q": "What does the HVC-400 cost?", "expect": null},
+  {"q": "What is the warranty period?", "expect": null},
+  {"q": "Who is the CEO of the manufacturer?", "expect": null},
+  {"q": "Welche Farbe hat das Gehäuse?", "expect": null},
+  {"q": "Wie viele Mitarbeiter hat das Labor?", "expect": null}
+]

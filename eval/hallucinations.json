@@ -1,0 +1,22 @@
+[
+  {"answer": "The rated voltage is 800 V DC. [2]", "wrong": false, "type": "correct"},
+  {"answer": "The rated voltage is 1000 V DC. [2]", "wrong": true, "type": "wrong number"},
+  {"answer": "The coil voltage is 24 V DC. [3]", "wrong": true, "type": "wrong number"},
+  {"answer": "Contact welding occurred on S3 after 1,850 cycles. [17]", "wrong": false, "type": "correct"},
+  {"answer": "Contact welding occurred on S3 after 18,500 cycles. [17]", "wrong": true, "type": "wrong number"},
+  {"answer": "Sample S3 passed the overload test. [17]", "wrong": true, "type": "flipped verdict"},
+  {"answer": "Alle drei Muster haben die Erwärmungsprüfung bestanden. [12]", "wrong": false, "type": "correct"},
+  {"answer": "Muster S2 hat die Erwärmungsprüfung nicht bestanden. [12]", "wrong": true, "type": "flipped verdict"},
+  {"answer": "Die maximale gemessene Erwärmung betrug 42 K bei Muster S2. [11]", "wrong": false, "type": "correct"},
+  {"answer": "Die maximale gemessene Erwärmung betrug 52 K bei Muster S2. [11]", "wrong": true, "type": "wrong number"},
+  {"answer": "Der Grenzwert beträgt 65 K. [10]", "wrong": false, "type": "correct"},
+  {"answer": "Der Grenzwert beträgt 65 K. [11]", "wrong": true, "type": "wrong source"},
+  {"answer": "The contact resistance of S2 rose to 0.13 mΩ. [16]", "wrong": false, "type": "correct"},
+  {"answer": "The contact resistance of S2 rose to 0.31 mΩ. [16]", "wrong": true, "type": "wrong number"},
+  {"answer": "The HVC-400 costs 450 euros per unit.", "wrong": true, "type": "no source"},
+  {"answer": "The contactor is certified for aircraft use. [7]", "wrong": true, "type": "invented claim"},
+  {"answer": "The mechanical life is 200,000 switching cycles. [5]", "wrong": false, "type": "correct"},
+  {"answer": "The mechanical life is 2,000,000 switching cycles. [5]", "wrong": true, "type": "wrong number"},
+  {"answer": "The test was carried out in October 2026. [20]", "wrong": false, "type": "correct"},
+  {"answer": "Das Gehäuse ist mit Gas gefüllt und wasserdicht nach IP69K. [7]", "wrong": true, "type": "invented claim"}
+]
